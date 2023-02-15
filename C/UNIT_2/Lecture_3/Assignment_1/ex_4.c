@@ -1,6 +1,6 @@
 /******************************************************************************
 
-                       EX3:write c program 
+                       EX4:write c program 
                        created on:15/2/2023
                        outhor:wesam abdallah
 
